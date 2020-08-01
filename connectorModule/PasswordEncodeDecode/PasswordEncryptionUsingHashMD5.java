@@ -22,7 +22,7 @@ public class PasswordEncryptionUsingHashMD5 {
 		// System.out.println("Decode UserName: " +
 		// decryptPassword(encryptPassword(userName)));
 
-		System.out.println("MD5 UserName: " + generateHash(password, algorithm));
+		System.out.println("MD5 Password: " + generateHash(password, algorithm));
 		// System.out.println("Decode Password: " +
 		// decryptPassword(encryptPassword(password)));
 
