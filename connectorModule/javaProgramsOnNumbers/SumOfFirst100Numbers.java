@@ -1,3 +1,4 @@
+package javaProgramsOnNumbers;
 
 public class SumOfFirst100Numbers 
 {

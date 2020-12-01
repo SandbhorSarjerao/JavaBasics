@@ -1,3 +1,4 @@
+package javaProgramsOnNumbers;
 
 public class NumberDivisibleBy5 
 {

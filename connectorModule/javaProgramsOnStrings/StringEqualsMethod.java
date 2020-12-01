@@ -1,3 +1,4 @@
+package javaProgramsOnStrings;
 
 public class StringEqualsMethod {
 

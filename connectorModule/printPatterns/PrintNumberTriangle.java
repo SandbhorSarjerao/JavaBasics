@@ -1,3 +1,4 @@
+package printPatterns;
 
 public class PrintNumberTriangle 
 {
